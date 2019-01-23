@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">708183521854-vovvfbqv8bu4shjlnas858opq5akk5b4.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://infovisioncodingtask.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">708183521854</string>
+    <string name="google_api_key" translatable="false">AIzaSyArfHgaY3o40GiPq1kdg98iXAkmy535dzM</string>
+    <string name="google_app_id" translatable="false">1:708183521854:android:c46838034938a473</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyArfHgaY3o40GiPq1kdg98iXAkmy535dzM</string>
+    <string name="google_storage_bucket" translatable="false">infovisioncodingtask.appspot.com</string>
+    <string name="project_id" translatable="false">infovisioncodingtask</string>
+</resources>
