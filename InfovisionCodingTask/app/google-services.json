@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708183521854",
+    "firebase_url": "https://infovisioncodingtask.firebaseio.com",
+    "project_id": "infovisioncodingtask",
+    "storage_bucket": "infovisioncodingtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708183521854:android:c46838034938a473",
+        "android_client_info": {
+          "package_name": "com.example.infovision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708183521854-ft1qvge7qogepg54ijdd3j0tgfkln1mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.infovision",
+            "certificate_hash": "1cec92a90832454980f1941a427c6049bb0f9eae"
+          }
+        },
+        {
+          "client_id": "708183521854-vovvfbqv8bu4shjlnas858opq5akk5b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArfHgaY3o40GiPq1kdg98iXAkmy535dzM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708183521854-vovvfbqv8bu4shjlnas858opq5akk5b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+     <defaultMap>
+	 <entry>
+        <key>new_image</key>
+        <value>https://jsonplaceholder.typicode.com/</value>
+		</entry>
+		</defaultMap>

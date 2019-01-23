@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="item_view_margin">10dp</dimen>
+    <dimen name="margin_left">20dp</dimen>
+    <dimen name="img_width">200dp</dimen>
+
+    <dimen name="img_heigth">200dp</dimen>
+
+    <dimen name="img_dimen">30dp</dimen>
+</resources>
