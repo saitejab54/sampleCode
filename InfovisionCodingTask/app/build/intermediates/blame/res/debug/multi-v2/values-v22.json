@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\fenny\\AndroidStudioProjects\\InfovisionCodingTask\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "outputFile": "/Users/saitejabontapally/Downloads/InfovisionCodingTask/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\fenny\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\e8f28ee95d611d13ed7c72294a07ce0c\\res\\values-v22\\values-v22.xml",
+                    "source": "/Users/saitejabontapally/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/c93aa571dea7424d316c56d1462d4909/res/values-v22/values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
